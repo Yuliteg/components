@@ -26,7 +26,7 @@ const ModalPage = () => {
   </Modal>
 
   return (
-    <div className>
+    <div>
       <Button
         primary
         onClick={handleClick}
